@@ -1,0 +1,71 @@
+.d1{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+}
+.d2{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+}
+.d3{
+    width: 300px;
+    background-color: hsl(300, 43%, 22%);
+    border-radius: 5px;
+}
+.p1{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+}
+.p2{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;
+}
+.p3{
+    padding: 30px;
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    color: white;    
+}
+.p4{
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 90px;
+    color: white;
+    margin-top: -80px;
+}
+.p5{
+    font-family: "League Spartan", sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 90px;  
+    color: hsl(333, 80%, 67%);
+}
+.f1{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
+.f2{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
+.f3{
+    padding: 30px;
+    border-radius: 50%;
+    width: 50px;
+}
