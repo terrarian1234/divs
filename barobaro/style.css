@@ -2,16 +2,25 @@
     width: 300px;
     background-color: hsl(300, 43%, 22%);
     border-radius: 5px;
+    margin-left: 200px;
 }
 .d2{
     width: 300px;
     background-color: hsl(300, 43%, 22%);
     border-radius: 5px;
+    margin-left: 525px;
+    margin-top: -220px;
 }
 .d3{
     width: 300px;
     background-color: hsl(300, 43%, 22%);
     border-radius: 5px;
+    margin-left: 850px;
+    margin-top: -210px;
+}
+.d4{
+    margin-left: 200px;
+    margin-top: 50px;
 }
 .p1{
     padding: 30px;
@@ -68,4 +77,16 @@
     padding: 30px;
     border-radius: 50%;
     width: 50px;
+}
+.s4{
+    color: #9e0b77;
+    font-size: 50px; 
+}  
+.s5{
+
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 702;
+  font-style: normal;
+  color: hsl(333, 80%, 67%);
 }
